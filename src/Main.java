@@ -12,5 +12,7 @@ public class Main {
 
         System.out.print("Enter the operation (+, -, *, /): ");
         String operation = scanner.next();
+
+        int result = 0;
     }
 }
